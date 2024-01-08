@@ -36,3 +36,9 @@ Make sure you have the following prerequisites installed on your machine:
 
 Feel free to explore and interact with the application to get updated weather information for different cities.
 
+## Author
+
+Created by Om Shree. Connect with me on [LinkedIn](https://www.linkedin.com/in/om-shree-04372118a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).
+
+&copy; 2024 Text to Speech Converter
+
